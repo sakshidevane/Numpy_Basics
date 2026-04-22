@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains my **NumPy practice notebook** created as part of my Python learning journey. The notebook focuses on understanding the basics and important operations of the NumPy library through hands-on examples.
+This repository contains my **NumPy practice notebook** created as part of my Python learning journey. This repository contains my NumPy practice notebook covering arrays,indexing, slicing, reshaping, mathematical operations and matrix basics.The notebook focuses on understanding the basics and important operations of the NumPy library through hands-on examples.
 
 NumPy is one of the most useful Python libraries for numerical computing and array-based operations. It is widely used in data science, machine learning, and scientific computing.
 
